@@ -9,7 +9,7 @@ title: Code_Sudan Team
 
   <div class="col-md-4">   
       <div class="card text-center">
-       
+       <font size="150%"><i class="fa fa-user"></i></font>
           <div class="card-body">
             <a href="https://ibb.co/J2gZTYS"><img src="https://i.ibb.co/J2gZTYS/Screenshot-36.png" alt="Screenshot-36" border="0"></a>
               <h5 class="card-title">Ahmed</h5>
