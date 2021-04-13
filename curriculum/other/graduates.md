@@ -6,7 +6,7 @@
   <div class="card-header">
     <h2>Zaytoona Center Project</h2>
   </div>
-  <a href="https://ibb.co/J2gZTYS"><img src="https://i.ibb.co/p2QZK97/download.jpg" alt="zaytoonaproject" border="0"></a>
+  <a href="https://ibb.co/J2gZTYS"><img src="https://i.ibb.co/J2gZTYS/Screenshot-36.png" alt="zaytoonaproject" border="0"></a>
   <div class="card-body">
 It is a website project for the Zaytoona Educational Center, the site displays information about the center and adds new courses, as well as the ability to register    for new students and follow up the courses for each student.
     
