@@ -42,6 +42,7 @@ title: Code_Sudan Team
       <div class="card text-center">
           <font size="150%"><i class="fa fa-user"></i></font>
           <div class="card-body">
+            <a href="https://ibb.co/kc2tMMC"><img src="https://i.ibb.co/kc2tMMC/20201202-170516.jpg" alt="20201202-170516" border="0"></a>
               <h5 class="card-title">Sara</h5>
               <p class="card-text">Programmer</p>
           </div>
