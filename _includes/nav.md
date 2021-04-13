@@ -31,16 +31,7 @@
 
 ***
 
-**Communities**
 
-* [Facebook Page](https://www.facebook.com/codesudan)
-* [GitHub](https://github.com/code-sudan)
-* [Instagram](https://www.instagram.com/codesudan/)
-* [LinkedIn Page](https://www.linkedin.com/company/66235022/)
-* [Twitter](https://twitter.com/CodeSudan)
-* [YouTube](https://www.youtube.com/channel/UCvw-oD093q--x27JrwNRhyw/)
-
-***
 
 * [Students Feedback](https://code-sudan.github.io/home/curriculum/other/feedback/)
 * [CS50 Certficate ](https://code-sudan.github.io/home/curriculum/other/cs50Certficate/)
