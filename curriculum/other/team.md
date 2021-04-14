@@ -27,6 +27,7 @@ title: Code_Sudan Team
       <div class="card text-center">
           <font size="150%"><i class="fa fa-user"></i></font>
           <div class="card-body">
+           <a href="https://ibb.co/zZ7fbTw"><img src="https://i.ibb.co/VTQBDc8/T013-NKECNJV-U01-BD625-N85-b6282ec810c3-512.jpg" alt="T013-NKECNJV-U01-BD625-N85-b6282ec810c3-512" border="0"></a>
               <h5 class="card-title">Hiba</h5>
               <p class="card-text">Programmer</p>
           </div>
