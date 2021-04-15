@@ -65,8 +65,9 @@ title: Code_Sudan Team
 
   <div class="col-md-4">   
       <div class="card text-center">
-        <font size="150%"><i class="fa fa-user"></i></font>
+        <font size="150%"></font>
           <div class="card-body">
+            <a href="https://ibb.co/80rX7QH"><img src="https://i.ibb.co/80rX7QH/T013-NKECNJV-U01-FFQF8-CP6-570c2ee9e3e4-512.png" alt="T013-NKECNJV-U01-FFQF8-CP6-570c2ee9e3e4-512" border="0"></a>
               <h5 class="card-title">Marwa</h5>
               <p class="card-text">Programmer</p>
           </div>
@@ -80,8 +81,9 @@ title: Code_Sudan Team
 
   <div class="col-md-4">   
       <div class="card text-center">
-          <font size="150%"><i class="fa fa-user"></i></font>
+          <font size="150%"></font>
           <div class="card-body">
+            <a href="https://ibb.co/1XjhVYP"><img src="https://i.ibb.co/1XjhVYP/T013-NKECNJV-U01-SB8-ZV5-NV-8dde3d4e20ea-512.jpg" alt="T013-NKECNJV-U01-SB8-ZV5-NV-8dde3d4e20ea-512" border="0"></a>
               <h5 class="card-title">Hanna</h5>
               <p class="card-text">Programmer</p>
           </div>
@@ -95,8 +97,9 @@ title: Code_Sudan Team
 
 <div class="col-md-4">   
       <div class="card text-center">
-          <font size="150%"><i class="fa fa-user"></i></font>
+          <font size="150%"></font>
           <div class="card-body">
+            <a href="https://ibb.co/NxfZmp5"><img src="https://i.ibb.co/NxfZmp5/T013-NKECNJV-U01-S77-WMNB1-gec5af1a02a7-512.png" alt="T013-NKECNJV-U01-S77-WMNB1-gec5af1a02a7-512" border="0"></a>
               <h5 class="card-title">Habab</h5>
               <p class="card-text">Programmer</p>
           </div>
@@ -110,8 +113,9 @@ title: Code_Sudan Team
   
   <div class="col-md-4">   
       <div class="card text-center">
-        <font size="150%"><i class="fa fa-user"></i></font>
+        <font size="150%"></i></font>
           <div class="card-body">
+            <a href="https://ibb.co/NxfZmp5"><img src="https://i.ibb.co/NxfZmp5/T013-NKECNJV-U01-S77-WMNB1-gec5af1a02a7-512.png" alt="T013-NKECNJV-U01-S77-WMNB1-gec5af1a02a7-512" border="0"></a>
               <h5 class="card-title">Waleed</h5>
               <p class="card-text">Programmer</p>
           </div>
