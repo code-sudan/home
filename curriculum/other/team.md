@@ -113,7 +113,7 @@ title: Code_Sudan Team
   
   <div class="col-md-4">   
       <div class="card text-center">
-        <font size="150%"></i></font>
+        <font size="150%"></font>
           <div class="card-body">
             <a href="https://ibb.co/NxfZmp5"><img src="https://i.ibb.co/NxfZmp5/T013-NKECNJV-U01-S77-WMNB1-gec5af1a02a7-512.png" alt="T013-NKECNJV-U01-S77-WMNB1-gec5af1a02a7-512" border="0"></a>
               <h5 class="card-title">Waleed</h5>
