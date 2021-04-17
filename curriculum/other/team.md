@@ -67,7 +67,7 @@ title: Code_Sudan Team
       <div class="card text-center">
         <font size="150%"></font>
           <div class="card-body">
-            <a href="https://ibb.co/80rX7QH"><img src="https://i.ibb.co/80rX7QH/T013-NKECNJV-U01-FFQF8-CP6-570c2ee9e3e4-512.png" alt="T013-NKECNJV-U01-FFQF8-CP6-570c2ee9e3e4-512" border="0"></a>
+            <a href="https://ibb.co/1s8mx6V"><img src="https://i.ibb.co/1s8mx6V/IMG-20210415-112742.jpg" alt="IMG-20210415-112742" border="0"></a>
               <h5 class="card-title">Marwa</h5>
               <p class="card-text">Programmer</p>
           </div>
