@@ -33,7 +33,7 @@
 
 
 
-* [Students Feedback](https://code-sudan.github.io/home/curriculum/other/feedback/)
+<!--* [Students Feedback](https://code-sudan.github.io/home/curriculum/other/feedback/) -->
 * [CS50 Certficate ](https://code-sudan.github.io/home/curriculum/other/cs50Certficate/)
 * [EDX ](https://courses.edx.org/courses/course-v1:HarvardX+CS50+X/course/)
 
