@@ -4,3 +4,5 @@ If you submit and receive a score of at least 70% on each of this course’s pro
 
 <!-- Hiba certificates -->
 <a href="https://ibb.co/WnFXKbr"><img src="https://i.ibb.co/tBc6C70/hiba.png" alt="hiba" border="0"></a>
+<!-- Amjad certificates -->
+<a href="https://ibb.co/HNdFcjt"><img src="https://i.ibb.co/HNdFcjt/641cd336-997b-4dfe-9995-deceab313cee.jpg" alt=Amjad" border="0"></a>
