@@ -16,6 +16,19 @@ It is a website project for the Zaytoona Educational Center, the site displays i
   </div>
 </div>
 
+<div class="card">
+  <div class="card-header">
+    <h2>Weather Project</h2>
+  </div>
+  <a href="https://ibb.co/cLLWx99"><img src="https://i.ibb.co/C22jWyy/7e744e48-2488-40d9-956f-157ee4e3b2a5.jpg" alt="7e744e48-2488-40d9-956f-157ee4e3b2a5" border="0"></a>
+  <div class="card-body">
+It is a website project for display the weather in each city around the world.
+    
+  </div>
+  <div class="card-footer">
+    <a href="#"><i class="fa fa-user"></i> Amjad Alhadi</a> 
+  </div>
+</div>
 
 
   
